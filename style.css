@@ -1,0 +1,25 @@
+body
+{
+    text-align: center;
+    background-color: rgb(117, 145, 14);
+   
+
+}
+form{
+
+    border: 5px solid bisque; 
+    border-width: 50px;
+    border-style: inset;
+
+    
+
+}
+footer
+    {
+        text-align: center;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+    }
+    
